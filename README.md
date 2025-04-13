@@ -25,4 +25,4 @@ This is a machine learning web application that predicts **Sales** based on **TV
 
 ---
 📸 Screenshot
-![sales_prediction]("https://github.com/Vaishnavi26-Kasture/Sales_Prediction/blob/main/sales_prediction.png?raw=true")
+![sales_prediction.png]("sales_prediction.png")
